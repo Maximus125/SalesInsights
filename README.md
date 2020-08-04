@@ -1,2 +1,2 @@
 # SalesInsights
-Depicting valuable insights from the sales of some particular items
+Predicting quality of Red Wine from UCI Repository dataset
